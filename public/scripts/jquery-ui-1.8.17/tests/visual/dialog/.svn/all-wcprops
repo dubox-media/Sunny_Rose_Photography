@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog
+END
+dialog_option_closeOnEscape_false.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_closeOnEscape_false.html
+END
+dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog.html
+END
+dialog_option_closeOnEscape_true.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_closeOnEscape_true.html
+END
+dialog_ticket_4350.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_ticket_4350.html
+END
+dialog_ticket_4826.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_ticket_4826.html
+END
+dialog_option_modal_true.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_modal_true.html
+END
+dialog_on_page_with_scrollbars.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_on_page_with_scrollbars.html
+END
+dialog_option_position_right_top.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_position_right_top.html
+END
+dialog_option_modal_false.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_modal_false.html
+END
+dialog_option_buttons_OK_Cancel.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_option_buttons_OK_Cancel.html
+END
+dialog_on_page_with_large_dom.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/dubox_main/!svn/ver/7/sunny-rose/trunk/public/scripts/jquery-ui-1.8.17/tests/visual/dialog/dialog_on_page_with_large_dom.html
+END

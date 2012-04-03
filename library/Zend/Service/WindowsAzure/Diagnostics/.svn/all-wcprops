@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics
+END
+DirectoryConfigurationSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/DirectoryConfigurationSubscription.php
+END
+ConfigurationWindowsEventLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationWindowsEventLog.php
+END
+ConfigurationObjectBaseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationObjectBaseAbstract.php
+END
+ConfigurationDataSources.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDataSources.php
+END
+PerformanceCounterSubscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/PerformanceCounterSubscription.php
+END
+ConfigurationInstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationInstance.php
+END
+Manager.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/Manager.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/Exception.php
+END
+ConfigurationDiagnosticInfrastructureLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDiagnosticInfrastructureLogs.php
+END
+LogLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/LogLevel.php
+END
+ConfigurationPerformanceCounters.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationPerformanceCounters.php
+END
+ConfigurationLogs.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationLogs.php
+END
+ConfigurationDirectories.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/WindowsAzure/Diagnostics/ConfigurationDirectories.php
+END

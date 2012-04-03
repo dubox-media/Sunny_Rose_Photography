@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/dubox_main/!svn/ver/13/sunny-rose/trunk/library/SR/Plugins
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/SR/Plugins/Auth.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dubox_main/!svn/ver/13/sunny-rose/trunk/library/SR/Plugins/Acl.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/26/sunny-rose/trunk/library/SR/Plugins/Layout.php
+END

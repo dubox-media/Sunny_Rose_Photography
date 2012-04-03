@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo/Interface.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo/Default.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo/Abstract.php
+END
+XmlDSig.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo/XmlDSig.php
+END

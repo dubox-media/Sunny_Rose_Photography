@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Consumer.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Http.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Token.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Exception.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Oauth/Config.php
+END

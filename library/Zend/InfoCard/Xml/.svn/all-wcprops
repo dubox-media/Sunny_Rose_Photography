@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml
+END
+EncryptedKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/EncryptedKey.php
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/Element.php
+END
+KeyInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/KeyInfo.php
+END
+EncryptedData.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/EncryptedData.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/Exception.php
+END
+Security.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/Security.php
+END
+Assertion.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/Assertion.php
+END
+SecurityTokenReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/InfoCard/Xml/SecurityTokenReference.php
+END

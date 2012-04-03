@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud
+END
+AbstractFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/AbstractFactory.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/Exception.php
+END
+OperationNotAvailableException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/OperationNotAvailableException.php
+END

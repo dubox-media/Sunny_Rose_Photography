@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Interface.php
+END
+Curl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Curl.php
+END
+Proxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Proxy.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Exception.php
+END
+Stream.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Stream.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Test.php
+END
+Socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/Client/Adapter/Socket.php
+END

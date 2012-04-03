@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Storage/File
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Storage/File/Filesystem.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Storage/File/Memory.php
+END

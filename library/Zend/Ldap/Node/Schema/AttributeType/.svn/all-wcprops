@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Ldap/Node/Schema/AttributeType
+END
+ActiveDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Ldap/Node/Schema/AttributeType/ActiveDirectory.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Ldap/Node/Schema/AttributeType/Interface.php
+END
+OpenLdap.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Ldap/Node/Schema/AttributeType/OpenLdap.php
+END

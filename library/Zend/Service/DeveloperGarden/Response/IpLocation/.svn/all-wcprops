@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation
+END
+LocateIPResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponse.php
+END
+IPAddressLocationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/IPAddressLocationType.php
+END
+RegionType.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/RegionType.php
+END
+LocateIPResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponseType.php
+END
+GeoCoordinatesType.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/GeoCoordinatesType.php
+END
+CityType.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/IpLocation/CityType.php
+END

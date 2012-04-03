@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Acl
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Acl/Role.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Acl/Resource.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Acl/Exception.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Validate/Db
+END
+RecordExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Validate/Db/RecordExists.php
+END
+NoRecordExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Validate/Db/NoRecordExists.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Validate/Db/Abstract.php
+END

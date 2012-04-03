@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Session/Validator
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Session/Validator/Interface.php
+END
+HttpUserAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Session/Validator/HttpUserAgent.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Session/Validator/Abstract.php
+END

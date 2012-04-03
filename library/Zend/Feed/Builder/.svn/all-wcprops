@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Builder
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Builder/Interface.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Builder/Header.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Builder/Exception.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Builder/Entry.php
+END

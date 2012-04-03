@@ -1,0 +1,55 @@
+
+/**********************************************************************************************************************************************************
+* FORMS MAIN
+*********************************************************************************************************************************************************/
+
+.form-list li {
+    list-style-type: none;
+}
+
+/**********************************************************************************************************************************************************
+ * CONTACT FORM
+ *********************************************************************************************************************************************************/
+form#contact-form {
+    margin: 15px 0;
+    padding: 10px;
+    border: 1px solid #666;
+    border-radius: 6px;
+}
+
+form#contact-form fieldset#contact-left {
+    width: 300px;
+    float:left;
+    margin: 0 0 0 80px;
+}
+
+form#contact-form fieldset#contact-left .input-container{
+   padding: 0 0 15px 0;
+}
+
+form#contact-form fieldset#contact-left input {
+    width:300px;
+    height: 26px;
+    font-family: swis721ltexbtlight;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+form#contact-form fieldset#contact-right {
+    width: 300px;
+    float:right;
+    margin: 0 80px 0 0;
+}
+
+form#contact-form fieldset#contact-right textarea{
+    width: 310px;
+    border-radius: 4px;
+    font-family: swis721ltexbtlight;
+}
+
+form#contact-form fieldset#contact-bottom {
+    margin: -15px 0 0 0;
+}
+/**********************************************************************************************************************************************************
+ *
+ *********************************************************************************************************************************************************/

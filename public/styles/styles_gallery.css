@@ -1,0 +1,115 @@
+/**********************************************************************************************************************************************************
+ * GALLERY       																																																															            *
+ *********************************************************************************************************************************************************/
+section#main-content-wrapper {
+    width:1140px;
+}
+
+section#gallery {
+    width: 1140px;
+    height: 510px;
+    font-family: VAG-HandWritteVAG-HandWritten, Arial, 'sans-serif';
+}
+
+/**
+ * Categories
+ */
+
+section#gallery ul.category-listing {
+    margin:0 0 10px 0;
+    padding:0;
+    font-size: 18px;
+}
+
+section#gallery ul.category-listing:last-child {
+    margin:0;
+}
+
+section#gallery ul.category-listing .category-title {
+    display: none;
+}
+
+section#gallery ul.category-listing li {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+
+/**
+ * Albums
+ */
+section#gallery ul.album-listing {
+    margin:5px 0 0 0;
+    padding:0;
+    font-size: 18px;
+}
+
+section#gallery ul.album-listing .album-title {
+    line-height: 18px;
+    height: 18px;
+    margin-bottom: -4px;
+}
+section#gallery ul.album-listing li {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+/**
+ * All Images
+ */
+
+li.img-wrapper {
+    height: 120px;
+    padding:0;
+    margin:0 0 10px 0;
+}
+
+/**
+ * Left Side Images
+ */
+
+section#gallery aside#images-left {
+    width: 180px;
+    float:left;
+    padding-left: 5px;
+    margin: 20px 0 0 0;
+}
+
+section#gallery aside#images-left ul li .album-left-img {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ * Right Side Images
+ */
+section#gallery aside#images-right {
+    width: 180px;
+    float:right;
+    padding-right: 5px;
+    margin: 20px 0 0 0;
+}
+
+section#gallery aside#images-right ul li .album-right-img {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+ * Display
+ */
+section#gallery section#display {
+    float:right;
+    width: 770px;
+    height: 535px;
+    margin: -5px 0 0 0;
+    font-size: 21px;
+}
+
+img.current-img {
+    width:750px;
+    height: 510px;
+}
+/**********************************************************************************************************************************************************
+ *     																																																															            *
+ *********************************************************************************************************************************************************/

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter/WindowsAzure.php
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter/AbstractAdapter.php
+END
+ZendQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter/ZendQueue.php
+END
+Sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter/Sqs.php
+END

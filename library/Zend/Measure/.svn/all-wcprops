@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure
+END
+Weight.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Weight.php
+END
+Current.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Current.php
+END
+Volume.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Volume.php
+END
+Frequency.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Frequency.php
+END
+Acceleration.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Acceleration.php
+END
+Binary.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Binary.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Abstract.php
+END
+Power.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Power.php
+END
+Pressure.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Pressure.php
+END
+Length.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Length.php
+END
+Speed.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Speed.php
+END
+Energy.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Energy.php
+END
+Density.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Density.php
+END
+Number.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Number.php
+END
+Torque.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Torque.php
+END
+Force.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Force.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Time.php
+END
+Lightness.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Lightness.php
+END
+Area.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Area.php
+END
+Capacitance.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Capacitance.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Exception.php
+END
+Illumination.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Illumination.php
+END
+Angle.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Angle.php
+END
+Temperature.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Measure/Temperature.php
+END

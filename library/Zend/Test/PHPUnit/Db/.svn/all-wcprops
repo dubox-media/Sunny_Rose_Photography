@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Test/PHPUnit/Db
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Test/PHPUnit/Db/Connection.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Test/PHPUnit/Db/Exception.php
+END
+SimpleTester.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Test/PHPUnit/Db/SimpleTester.php
+END

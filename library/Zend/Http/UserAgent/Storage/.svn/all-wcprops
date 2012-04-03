@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/UserAgent/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/UserAgent/Storage/Session.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/UserAgent/Storage/Exception.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Http/UserAgent/Storage/NonPersistent.php
+END

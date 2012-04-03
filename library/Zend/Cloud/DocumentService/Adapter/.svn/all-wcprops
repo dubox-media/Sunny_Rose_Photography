@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Adapter
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Adapter/WindowsAzure.php
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Adapter/AbstractAdapter.php
+END
+SimpleDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Adapter/SimpleDb.php
+END

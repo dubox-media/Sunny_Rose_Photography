@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Auth/Storage
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Auth/Storage/Session.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Auth/Storage/Interface.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Auth/Storage/Exception.php
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Auth/Storage/NonPersistent.php
+END

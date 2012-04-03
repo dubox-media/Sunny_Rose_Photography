@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler
+END
+VoiceButlerAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler/VoiceButlerAbstract.php
+END
+NewCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCall.php
+END
+CallStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler/CallStatus.php
+END
+TearDownCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler/TearDownCall.php
+END
+NewCallSequenced.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/VoiceButler/NewCallSequenced.php
+END

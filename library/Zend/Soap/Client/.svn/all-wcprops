@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client/Local.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client/Common.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client/Exception.php
+END
+DotNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client/DotNet.php
+END

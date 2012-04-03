@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index
+END
+SegmentWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/SegmentWriter.php
+END
+TermsPriorityQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/TermsPriorityQueue.php
+END
+FieldInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/FieldInfo.php
+END
+DictionaryLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/DictionaryLoader.php
+END
+TermInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/TermInfo.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/Term.php
+END
+SegmentMerger.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/SegmentMerger.php
+END
+SegmentInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/SegmentInfo.php
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/Writer.php
+END
+DocsFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Index/DocsFilter.php
+END

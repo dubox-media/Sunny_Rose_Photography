@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Storage/Folder
+END
+Maildir.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Storage/Folder/Maildir.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Storage/Folder/Interface.php
+END
+Mbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Storage/Folder/Mbox.php
+END

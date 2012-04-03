@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/Message.php
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/mysql.sql
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/postgresql.sql
+END
+sqlsrv.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/sqlsrv.sql
+END
+queue_sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/queue_sqlite.sql
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Adapter/Db/Queue.php
+END

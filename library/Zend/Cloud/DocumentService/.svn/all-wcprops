@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService
+END
+DocumentSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/DocumentSet.php
+END
+QueryAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/QueryAdapter.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Query.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Factory.php
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Document.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Exception.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/DocumentService/Adapter.php
+END

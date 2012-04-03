@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/StorageService
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/StorageService/Factory.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/StorageService/Exception.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/StorageService/Adapter.php
+END

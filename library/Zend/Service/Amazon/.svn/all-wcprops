@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon
+END
+CustomerReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/CustomerReview.php
+END
+Authentication.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Authentication.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Image.php
+END
+Offer.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Offer.php
+END
+EditorialReview.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/EditorialReview.php
+END
+S3.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/S3.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Abstract.php
+END
+SimilarProduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/SimilarProduct.php
+END
+ResultSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/ResultSet.php
+END
+OfferSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/OfferSet.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Query.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Exception.php
+END
+SimpleDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/SimpleDb.php
+END
+Accessories.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Accessories.php
+END
+ListmaniaList.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/ListmaniaList.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Item.php
+END
+Ec2.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2.php
+END
+Sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Sqs.php
+END

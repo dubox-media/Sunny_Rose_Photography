@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension
+END
+Rights.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Rights.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Format.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Title.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Language.php
+END
+Identifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Identifier.php
+END
+Publisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Publisher.php
+END
+Creator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Creator.php
+END
+Subject.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Subject.php
+END
+Description.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Description.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/DublinCore/Extension/Date.php
+END

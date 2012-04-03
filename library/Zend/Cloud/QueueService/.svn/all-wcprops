@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Message.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Factory.php
+END
+MessageSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/MessageSet.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Exception.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cloud/QueueService/Adapter.php
+END

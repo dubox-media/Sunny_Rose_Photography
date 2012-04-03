@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader
+END
+EntryInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/EntryInterface.php
+END
+FeedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/FeedInterface.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/Collection.php
+END
+FeedAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/FeedAbstract.php
+END
+FeedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/FeedSet.php
+END
+EntryAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Feed/Reader/EntryAbstract.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/dubox_main/!svn/ver/5/sunny-rose/trunk/data/db
+END
+guestbook-dev.db
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dubox_main/!svn/ver/5/sunny-rose/trunk/data/db/guestbook-dev.db
+END
+guestbook-testing.db
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/5/sunny-rose/trunk/data/db/guestbook-testing.db
+END
+guestbook.db
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/dubox_main/!svn/ver/5/sunny-rose/trunk/data/db/guestbook.db
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap
+END
+AutoDiscover.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/AutoDiscover.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Client.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Server.php
+END
+Wsdl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Stomp
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Stomp/Client.php
+END
+FrameInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Stomp/FrameInterface.php
+END
+Frame.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Queue/Stomp/Frame.php
+END

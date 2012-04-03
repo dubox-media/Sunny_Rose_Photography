@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Crypt/Math/BigInteger
+END
+Bcmath.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Crypt/Math/BigInteger/Bcmath.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Crypt/Math/BigInteger/Interface.php
+END
+Gmp.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Crypt/Math/BigInteger/Gmp.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Crypt/Math/BigInteger/Exception.php
+END

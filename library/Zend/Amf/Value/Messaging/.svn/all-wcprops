@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging
+END
+ArrayCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/ArrayCollection.php
+END
+AsyncMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/AsyncMessage.php
+END
+AcknowledgeMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/AcknowledgeMessage.php
+END
+CommandMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/CommandMessage.php
+END
+ErrorMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/ErrorMessage.php
+END
+RemotingMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/RemotingMessage.php
+END
+AbstractMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Amf/Value/Messaging/AbstractMessage.php
+END

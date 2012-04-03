@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document
+END
+Xlsx.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/Xlsx.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/Html.php
+END
+OpenXml.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/OpenXml.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/Exception.php
+END
+Docx.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/Docx.php
+END
+Pptx.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Document/Pptx.php
+END

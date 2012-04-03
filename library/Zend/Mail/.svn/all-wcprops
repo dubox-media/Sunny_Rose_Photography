@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Message.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Storage.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Exception.php
+END
+Part.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Mail/Part.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search
+END
+QueryParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryParser.php
+END
+QueryParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryParserException.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/Query.php
+END
+QueryParserContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryParserContext.php
+END
+Weight.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/Weight.php
+END
+QueryEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryEntry.php
+END
+QueryHit.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryHit.php
+END
+QueryToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryToken.php
+END
+Similarity.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/Similarity.php
+END
+QueryLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/QueryLexer.php
+END
+BooleanExpressionRecognizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Search/Lucene/Search/BooleanExpressionRecognizer.php
+END

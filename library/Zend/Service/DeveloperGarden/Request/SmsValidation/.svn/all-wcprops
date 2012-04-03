@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/SmsValidation
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Validate.php
+END
+SendValidationKeyword.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/SmsValidation/SendValidationKeyword.php
+END
+Invalidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Invalidate.php
+END
+GetValidatedNumbers.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/SmsValidation/GetValidatedNumbers.php
+END

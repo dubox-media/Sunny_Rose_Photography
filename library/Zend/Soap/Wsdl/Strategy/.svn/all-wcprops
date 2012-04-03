@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy
+END
+AnyType.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/AnyType.php
+END
+ArrayOfTypeComplex.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeComplex.php
+END
+Composite.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/Composite.php
+END
+DefaultComplexType.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/DefaultComplexType.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/Interface.php
+END
+ArrayOfTypeSequence.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeSequence.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Soap/Wsdl/Strategy/Abstract.php
+END

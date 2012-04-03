@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend
+END
+Memcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Memcached.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Interface.php
+END
+TwoLevels.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/TwoLevels.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/File.php
+END
+BlackHole.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/BlackHole.php
+END
+ExtendedInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/ExtendedInterface.php
+END
+ZendServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/ZendServer.php
+END
+WinCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/WinCache.php
+END
+Xcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Xcache.php
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Sqlite.php
+END
+Static.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Static.php
+END
+Libmemcached.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Libmemcached.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Test.php
+END
+Apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/Apc.php
+END
+ZendPlatform.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Cache/Backend/ZendPlatform.php
+END

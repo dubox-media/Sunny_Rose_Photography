@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2
+END
+Ebs.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Ebs.php
+END
+Keypair.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Keypair.php
+END
+CloudWatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/CloudWatch.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Image.php
+END
+Availabilityzones.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Availabilityzones.php
+END
+Elasticip.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Elasticip.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Response.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Abstract.php
+END
+Region.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Region.php
+END
+Securitygroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Securitygroups.php
+END
+Instance.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/Amazon/Ec2/Instance.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END

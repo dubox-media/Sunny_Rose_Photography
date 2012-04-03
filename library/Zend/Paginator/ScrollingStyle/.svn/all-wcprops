@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle/Interface.php
+END
+Sliding.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle/Sliding.php
+END
+All.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle/All.php
+END
+Jumping.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle/Jumping.php
+END
+Elastic.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Paginator/ScrollingStyle/Elastic.php
+END

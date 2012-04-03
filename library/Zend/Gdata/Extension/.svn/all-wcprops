@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension
+END
+Transparency.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Transparency.php
+END
+FeedLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/FeedLink.php
+END
+When.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/When.php
+END
+Rating.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Rating.php
+END
+Who.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Who.php
+END
+OpenSearchItemsPerPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/OpenSearchItemsPerPage.php
+END
+RecurrenceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/RecurrenceException.php
+END
+OpenSearchStartIndex.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/OpenSearchStartIndex.php
+END
+OpenSearchTotalResults.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/OpenSearchTotalResults.php
+END
+Where.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Where.php
+END
+OriginalEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/OriginalEvent.php
+END
+AttendeeStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/AttendeeStatus.php
+END
+EntryLink.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/EntryLink.php
+END
+EventStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/EventStatus.php
+END
+ExtendedProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/ExtendedProperty.php
+END
+Recurrence.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Recurrence.php
+END
+Reminder.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Reminder.php
+END
+Visibility.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Visibility.php
+END
+AttendeeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/AttendeeType.php
+END
+Comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Gdata/Extension/Comments.php
+END

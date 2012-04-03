@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/SendSms
+END
+SendFlashSMSResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/SendSms/SendFlashSMSResponse.php
+END
+SendSMSResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/SendSms/SendSMSResponse.php
+END
+SendSmsAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/dubox_main/!svn/ver/6/sunny-rose/trunk/library/Zend/Service/DeveloperGarden/Response/SendSms/SendSmsAbstract.php
+END
