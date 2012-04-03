@@ -1,0 +1,20 @@
+<form id="contact-form" method="<?php echo $this->element->getMethod(); ?>" action="<?php echo $this->element->getAction(); ?>">
+    <ul id="contact-form-elements" class="form-list">
+        <fieldset id="contact-left">
+            <li class="input-label"><?php echo $this->element->name->renderLabel(); ?></li>
+            <li class="input-container"><?php echo $this->element->name->renderViewHelper(); ?></li>
+            <li class="input-label"><?php echo $this->element->email->renderLabel(); ?></li>
+            <li class="input-container"><?php echo $this->element->email->renderViewHelper(); ?></li>
+        </fieldset>
+        <fieldset id="contact-right">
+            <li class="input-label"><?php echo $this->element->message->renderLabel(); ?></li>
+            <li class="input-container"><?php echo $this->element->message->renderViewHelper(); ?></li>
+        </fieldset>
+        <div class="clearfix-20"></div>
+        <fieldset id="contact-bottom">
+            <li class="input-label"><?php echo $this->element->subject->renderLabel(); ?></li>
+            <li class="input-container"><?php echo $this->element->subject->renderViewHelper(); ?></li>
+            <li><?php echo $this->element->submit;  ?></li>
+        </fieldset>
+    </ul>
+</form>

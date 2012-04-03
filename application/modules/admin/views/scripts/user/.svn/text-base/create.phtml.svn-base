@@ -1,0 +1,8 @@
+<?php $this->headTitle()->append('Administration - Users') ?>
+
+<section id="admin-user-create">
+	<header id="admin-user-create-header">
+		<h2>Create a new User</h2>
+	</header>
+	<?php echo $this->form; ?>
+</section>

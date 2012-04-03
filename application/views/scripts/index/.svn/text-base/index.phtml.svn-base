@@ -1,0 +1,27 @@
+<?php $this->headLink()->appendStylesheet('/styles/styles_home.css'); ?>
+<section id="home-slide-show">
+    <h2>Coming Soon</h2>
+    <ul class="home-slide-show-wrapper" style="display: none;">
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+        <li class="home-slide-show-item-wrapper">
+            <img class="home-slide-show-image"/>
+        </li>
+    </ul>
+</section>

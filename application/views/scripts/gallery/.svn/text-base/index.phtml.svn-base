@@ -1,0 +1,88 @@
+<?php
+    $this->headTitle()->append('Gallery');
+    $this->headLink()->appendStylesheet('/styles/styles_gallery.css');
+?>
+
+			<section id="gallery">
+				<aside id="images-left" class="side-images album-categories">
+					<ul id="category-newborn" class="category-listing">
+						<li class="category-title">Newborn</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Newborn" class="album-left-img" /></li>
+					</ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Newborn</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-left-img" /></li>
+                    </ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Newborn</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-left-img" /></li>
+                    </ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Newborn</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-left-img" /></li>
+                    </ul>
+					<ul id="category-maternity" class="category-listing">
+						<li class="category-title">Maternity</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Maternity" class="album-left-img" /></li>
+					</ul>
+					<ul id="category-children" class="category-listing">
+						<li class="category-title">Children</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Children" class="album-left-img" /></li>
+					</ul>
+				</aside>
+				<aside id="images-right" class="side-images album-categories">
+					<ul id="category-family" class="category-listing">
+						<li class="category-title">Family</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Family" class="album-right-img" /></li>
+					</ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Family</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-right-img" /></li>
+                    </ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Family</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-right-img" /></li>
+                    </ul>
+                    <ul id="" class="category-listing">
+                        <li class="category-title">Family</li>
+                        <li><img
+                            src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+                            id="" class="album-right-img" /></li>
+                    </ul>
+					<ul id="category-beauty" class="category-listing">
+						<li class="category-title">Beauty</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Beauty" class="album-right-img" /></li>
+					</ul>
+					<ul id="category-pet" class="category-listing">
+						<li class="category-title">Pet</li>
+						<li><img
+							src="images/gallery/albums/thumbnails-album-categories/newborn/kylie-album.jpg"
+							id="Pet" class="album-right-img" /></li>
+					</ul>
+				</aside>
+                <section id="display">
+                    <h5 class="current-title">Please Select an Album Type</h5>
+                    <img src="images/gallery/albums/newborn/kylie/large/kylie-1.jpg"
+                         id="" class="current-img" width="750px" />
+                </section>
+			</section>

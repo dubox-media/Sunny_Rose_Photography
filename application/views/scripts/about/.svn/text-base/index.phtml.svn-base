@@ -1,0 +1,35 @@
+<?php
+    $this->headTitle()->append('About');
+    $this->headLink()->appendStylesheet('/styles/styles_about.css');
+?>
+<section id="about-main-content">
+    <article id="about-text-content">
+        <p>
+            I have grown up all over Oregon, living in such places as Medford, Grants Pass, Klamath Falls, Salem, Keizer, Coos Bay,
+            Coquille, Corvallis, Albany, and now North Portland.  I also spent a somewhat recent summer living in Richmond, Virginia!
+        </p>
+        <p>
+            I am the only girl, of 4 children (3rd child), and I grew up as a total tom-boy!  I loved playing in the dirt and building forts with
+            my brothers!  Our household was very nurturing of our individual talents/interests, which range from working on cars, to computer science, to physical fitness, to photography.  We all have many interests and enjoy sharing them with each other.
+        </p>
+        <p>
+            I am married to such an amazing guy!  You could say we had a whirlwind romance, and in 2006 we tied the knot.We love children, but don’t yet have any of our own.  We look forward to the time when we get to start our family!
+        </p>
+        <p>
+            I absolutely love animals, and I have fostered and rehabilitated many dogs and cats over the years.  I no longer do that due
+            to urban life, but I do have one dog named Penny, and everyone just adores her because she’s so smart and well behaved!
+        </p>
+        <p>
+            My husband and I have big plans for our future!  We hope to have a large family, lots of land for playing and for growing
+            fruits and veggies, a coop of chickens, and a spot for a family of little goats, a big tree with a tire swing, a porch that goes
+            all the way around the house, a big grassy backyard where we can take the little kids “camping” for a night!
+            What a great life that will be!
+        </p>
+        <p>
+            For now, we are focused on working hard and achieving our goals.  My goal is to be a great photographer.  I have more to
+            learn, and I still don’t have the nicest equipment out there, but its what I love to do, so I put my whole heart  into it!
+            I hope you consider me when you need a photographer!
+        </p>
+
+    </article>
+</section>

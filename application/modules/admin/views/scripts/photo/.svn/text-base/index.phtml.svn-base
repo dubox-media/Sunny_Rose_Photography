@@ -1,0 +1,34 @@
+<?php 
+	$this->headTitle()->append('admin - Manage Photos');
+	$this->headScript()->appendFile('/scripts/admin/photos.js');
+    $this->headLink()->appendStylesheet('/styles/admin/photos.css')
+?>
+
+<section class="clearfix-300"></section>
+<section id="admin-manage-photos">
+    <header>
+        <nav>
+            <a href="/admin/">Back to admin menu</a>
+        </nav>
+    </header>
+	<section id="add-photos">
+		<?php echo $this->form; ?>
+    </section>
+	<section id="edit-photos">
+        <h2>Current Photos in the Gallery</h2>
+        <div class="load-wrapper">
+		    <?php echo $this->action('edit-photos', 'photo', 'admin'); ?>
+        </div>
+	</section>
+	<section id="delete-photos">
+		<?php //echo $this->action('delete-photos', 'photo', 'admin'); ?>
+	</section>
+    <section id="debug">
+
+    </section>
+    <section id="duplicate-thumbnail-dialog" style="display: none">
+        <h2>HALT! Halt with your two album thumbnail tale!</h2>
+        <p>You already have a cover image chosen for this album. Would you like to make this one( <span id="duplicate-image-title"></span> )
+            your new cover image?</p>
+    </section>
+</section>

@@ -1,0 +1,39 @@
+<?php echo $this->doctype()?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <?php echo $this->headTitle(); ?>
+  <?php echo $this->headLink(); ?>
+  <?php echo $this->headScript(); ?>
+</head>
+<body>
+	<div id="wrapper" class="container">
+		<header id="main-header">
+            <h1 id="site-title"><a href="/">Sunny Rose Photography</a></h1>
+            <h2 id="current-page-title"><?php echo $this->pageTitle; ?></h2>
+			<nav>
+                <a href="/about">about me</a>
+                <a href="/gallery">galleries</a>
+                <a href="/contact">contact</a>
+                <a href="/investment">investment</a>
+                <a href="/blog">blog</a>
+			</nav>
+		</header>
+		<section id="main-content">
+            <section id="main-content-wrapper">
+                <div id="corner-img"><img src="/images/site-images/bird.png" class="" /></div>
+                <?php echo $this->layout()->content ?>
+                <section class="clearfix-20"></section>
+            </section>
+		</section>
+        <footer id="main-footer">
+            <section id="audio-player">
+                <ul>
+                    <li><img src="/images/site-images/player/play-pause.png" alt="play - pause" /></li>
+                    <li><img src="/images/site-images/player/vol-slider-bg.png" alt="volume slider" /></li>
+                </ul>
+            </section>
+        </footer>
+	</div>
+</body>
+</html>

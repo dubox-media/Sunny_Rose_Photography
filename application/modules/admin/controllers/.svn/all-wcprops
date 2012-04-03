@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/dubox_main/!svn/ver/19/sunny-rose/trunk/application/modules/admin/controllers
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/dubox_main/!svn/ver/4/sunny-rose/trunk/application/modules/admin/controllers/UserController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/dubox_main/!svn/ver/13/sunny-rose/trunk/application/modules/admin/controllers/IndexController.php
+END
+PhotoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/dubox_main/!svn/ver/19/sunny-rose/trunk/application/modules/admin/controllers/PhotoController.php
+END
