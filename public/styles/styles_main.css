@@ -111,6 +111,11 @@ section#main-content-wrapper {
     clear:both;
 }
 
+.clearfix-50 {
+    height:50px;
+    clear: both;
+}
+
 .clearfix-300 {
     height:300px;
     clear:both;

@@ -56,14 +56,27 @@ class Admin_PhotoController extends Zend_Controller_Action
         $dir_is_empty = '';
 
         $baseDir = APPLICATION_PATH . '/../public/images/gallery/categories/';
-        if(file_exists($baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'])){
 
+        //Do a quick n dirty general check to see if the updated photo already exists in that location
+        if(file_exists($baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'])){
+            //Set the path so the db value can be updated
+            //$data['path'] = $baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'];
         }else{
+            //start the cascading directory creation
+            if(!file_exists($baseDir . $data['category_name'])){
+                mkdir($baseDir . $data['category_name']);
+            } elseif (!file_exists($baseDir . $data['category_name'] . '/' . $data['album_name'])){
+                    mkdir($baseDir . $data['category_name'] . '/' . $data['album_name']);
+            }
+
+            //Now that the needed dirs are there - copy the file to be updated
             if( copy($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'] .'/' .$data['file_name_existing'],
                 $baseDir . $data['category_name'] . '/' . $data['album_name'] . '/' . $data['file_name'])){
 
+                //now that the file has been copied - delete the old one.
                 unlink($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'] .'/' .$data['file_name_existing']);
 
+                //look at the directory from which we deleted the file. Set a flag based on its contents
                 if ( ($files = @scandir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'])) && (count($files) > 2) )
                 {
                     $dir_is_empty = FALSE;
@@ -71,17 +84,25 @@ class Admin_PhotoController extends Zend_Controller_Action
                     $dir_is_empty = TRUE;
                 }
 
+                //if there's nothing left in the folder - delete it.
                 if($dir_is_empty){
                     rmdir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing']);
                 }
 
+                //set the new path
                 $data['path'] = $baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'];
+
+                //Call the model and save $data to the db.
+                $photo_model = new Admin_Model_Photo();
+                $photo_model->updatePhoto($data);
+
+                //test dump
+                print json_encode($data);
+            } else {
+                //return a 'you failed' string
+                print json_encode('Could not update file - please contact your awesome husband to fix it :D ');
             }
         }
-
-        //Save vals to db based on update
-        $photo_model = new Admin_Model_Photo();
-        $photo_model->updatePhoto($data);
 	}
 	
 	public function editPhotosAction()
@@ -102,8 +123,23 @@ class Admin_PhotoController extends Zend_Controller_Action
         $path = $photo_model->deletePhoto($_POST['id']);
 
         //If there's a return path - delete the image file as well.
+        $baseDir = APPLICATION_PATH . '/../public/images/gallery/categories/';
+
         if($path){
-            unlink($path['path']);
+            if(unlink($path['path'])){
+                //look at the directory from which we deleted the file. Set a flag based on its contents
+                if ( ($files = @scandir($baseDir .$_POST['category_name'] . '/' . $_POST['album_name_existing'])) && (count($files) > 2) )
+                {
+                    $dir_is_empty = FALSE;
+                } else {
+                    $dir_is_empty = TRUE;
+                }
+
+                //if there's nothing left in the folder - delete it.
+                if($dir_is_empty){
+                    rmdir($baseDir .$_POST['category_name'] . '/' . $_POST['album_name']);
+                }
+            }
         }
 
 

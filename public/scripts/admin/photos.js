@@ -390,7 +390,9 @@ Photos.prototype = {
 			$.ajax({
 				url: '/admin/photo/delete-photos',
 				data: {
-					id: $(elem).parents('tr').children().find('#img_id').val()
+					id: $(elem).parents('tr').children().find('#img_id').val(),
+					album_name:$(elem).parents('tr').children().find('#album_name').val(),
+					category_name: $(elem).parents('tr').children().find('#category_name').val()
 				},
 				type: 'POST',
 				beforeSend: function(){
