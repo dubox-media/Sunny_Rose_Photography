@@ -320,7 +320,7 @@ Photos.prototype = {
 	/**
 	 *  REFRESH LIST
 	 *
-	 *  @desc: refresh the photos listing after addind/updating/deleting a photo
+	 *  @desc: refresh the photos listing after adding/updating/deleting a photo
 	 */
 	refreshList: function(){
 		var self = this;

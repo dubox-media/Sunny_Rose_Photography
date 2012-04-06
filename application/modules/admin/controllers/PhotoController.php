@@ -7,12 +7,18 @@ class Admin_PhotoController extends Zend_Controller_Action
 
     }
 
+    /**
+     *
+     */
     public function indexAction()
     {
         $form = new Form_AddPhoto();
         $this->view->form = $form;
     }
 
+    /**
+     *
+     */
 	public function addPhotosAction()
 	{
         //This can sometimes trip up the json response(if you don't disable that is)
@@ -37,7 +43,9 @@ class Admin_PhotoController extends Zend_Controller_Action
         print $json;
     }
 
-	
+	/**
+     *
+     */
 	public function updatePhotosAction()
 	{
         //This can sometimes trip up the json response(if you don't disable that is)
@@ -60,7 +68,14 @@ class Admin_PhotoController extends Zend_Controller_Action
         //Do a quick n dirty general check to see if the updated photo already exists in that location
         if(file_exists($baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'])){
             //Set the path so the db value can be updated
-            //$data['path'] = $baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'];
+            $data['path'] = $baseDir .$data['category_name'] . '/' .  $data['album_name'] . '/' . $data['file_name'];
+
+            //Call the model and save $data to the db.
+            $photo_model = new Admin_Model_Photo();
+            $photo_model->updatePhoto($data);
+
+            //Succes val
+            print json_encode('GREAT SUCCESS');
         }else{
             //start the cascading directory creation
             if(!file_exists($baseDir . $data['category_name'])){
@@ -74,19 +89,35 @@ class Admin_PhotoController extends Zend_Controller_Action
                 $baseDir . $data['category_name'] . '/' . $data['album_name'] . '/' . $data['file_name'])){
 
                 //now that the file has been copied - delete the old one.
-                unlink($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'] .'/' .$data['file_name_existing']);
+                if(unlink($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'] .'/' .$data['file_name_existing'])){
 
-                //look at the directory from which we deleted the file. Set a flag based on its contents
-                if ( ($files = @scandir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'])) && (count($files) > 2) )
-                {
-                    $dir_is_empty = FALSE;
-                } else {
-                    $dir_is_empty = TRUE;
-                }
+                    //look at the _album_ directory from which we deleted the file. Set a flag based on its contents
+                    if ( ($files = @scandir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'])) && (count($files) > 2) )
+                    {
+                        $dir_is_empty = FALSE;
+                    } else {
+                        $dir_is_empty = TRUE;
+                    }
 
-                //if there's nothing left in the folder - delete it.
-                if($dir_is_empty){
-                    rmdir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing']);
+                    //if there's nothing left in the folder - delete it.
+                    if($dir_is_empty){
+                        //Delete Album dir
+                        if(rmdir($baseDir .$data['category_name_existing'] . '/' . $data['album_name_existing'])){
+                            //now Check Category dir and do the same thing
+                            if ( ($files = @scandir($baseDir .$data['category_name_existing'])) && (count($files) > 2) )
+                            {
+                                $dir_is_empty = FALSE;
+                            } else {
+                                $dir_is_empty = TRUE;
+                            }
+
+                            if($dir_is_empty){
+                                //delete category dir
+                                rmdir($baseDir .$data['category_name_existing']);
+                            }
+                        }
+                    }
+                    //TODO: the whole process of setting the flag might be erroneous, look at another way of doing it.
                 }
 
                 //set the new path
@@ -97,7 +128,7 @@ class Admin_PhotoController extends Zend_Controller_Action
                 $photo_model->updatePhoto($data);
 
                 //test dump
-                print json_encode($data);
+                print json_encode('Successfully moved file(s)');
             } else {
                 //return a 'you failed' string
                 print json_encode('Could not update file - please contact your awesome husband to fix it :D ');
@@ -124,6 +155,7 @@ class Admin_PhotoController extends Zend_Controller_Action
 
         //If there's a return path - delete the image file as well.
         $baseDir = APPLICATION_PATH . '/../public/images/gallery/categories/';
+        $dir_is_empty = '';
 
         if($path){
             if(unlink($path['path'])){
@@ -138,14 +170,27 @@ class Admin_PhotoController extends Zend_Controller_Action
                 //if there's nothing left in the folder - delete it.
                 if($dir_is_empty){
                     rmdir($baseDir .$_POST['category_name'] . '/' . $_POST['album_name']);
+
+                    //now check Category dir and do the same thing
+                    if ( ($files = @scandir($baseDir .$_POST['category_name'])) && (count($files) > 2) )
+                    {
+                        $dir_is_empty = FALSE;
+                    } else {
+                        $dir_is_empty = TRUE;
+                    }
+
+                    if($dir_is_empty){
+                        //delete category dir
+                        rmdir($baseDir .$_POST['category_name']);
+                    }
                 }
             }
         }
-
-
-
 	}
 
+    /**
+     *
+     */
     public function uploadAction()
     {
         //This can sometimes trip up the json response(if you don't disable that is)
@@ -174,11 +219,6 @@ class Admin_PhotoController extends Zend_Controller_Action
         }
 
         print json_encode($_FILES['file_0']['name']);
-    }
-
-    public function dataAction($data)
-    {
-        $this->view->data = $data;
     }
 }
 

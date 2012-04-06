@@ -110,13 +110,16 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
     
     	$guest_role = new Zend_Acl_role('guest');
     	$admin_role = new Zend_Acl_role('Administrator');
+        $user_role = new Zend_Acl_role('User');
+
     	$acl->addRole($guest_role);
+        $acl->addRole($user_role);
     	$acl->addRole($admin_role, $guest_role);
     	
     	$acl->addResource('default:');
     	 
     	// by default, the public module is allowed. Any eceptions need explicitly denied.
-    	$acl->allow('guest', 'default:');
+    	$acl->allow(array('guest', 'User'), 'default:');
     	
     	// setup FC plugin to run the check
     	$acl_plugin = new SR_Plugins_Acl($acl);

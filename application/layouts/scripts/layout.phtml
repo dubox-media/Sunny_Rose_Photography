@@ -8,6 +8,32 @@
 </head>
 <body>
 	<div id="wrapper" class="container">
+        <section id="login">
+            <div id="login-display">
+                <?php
+                    $auth = Zend_Auth::getInstance();
+                    if ($auth->hasIdentity()){
+                        $user = $auth->getStorage()->read();
+                ?>
+                    <span id="is-logged-in"><?php echo 'logged in as '. '<span class="logged-in-user">'. $this->escape($user->name).'<br />';
+                        if($this->escape($user->role) == 'Administrator'){ ?>
+                            <a href="/admin">Admin Panel</a>
+                       <?php }elseif($this->escape($user->role) == 'User') { ?>
+                            <a href="/user">Control Panel</a>
+                       <?php } echo '</span>'; ?></span>
+                <?php } else { ?>
+                    <span id="is-not-logged-in"><a href="">Login</a></span>
+                <?php }?>
+            </div>
+            <div id="login-form" style="display: none;">
+                <?php echo $this->action('login', 'index', 'admin') ?>
+            </div>
+            <?php if (Zend_Auth::getInstance()->hasIdentity()) {?>
+            <div id="logout-display">
+                <span><a href="/index/logout">Logout</a></span>
+            </div>
+            <?php } ?>
+        </section>
 		<header id="main-header">
             <h1 id="site-title"><a href="/">Sunny Rose Photography</a></h1>
             <h2 id="current-page-title"><?php echo $this->pageTitle; ?></h2>

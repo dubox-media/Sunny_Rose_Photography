@@ -29,6 +29,6 @@ class Form_User extends Zend_Form
         $this->addElement($role);
         
         //Submit
-        $submit = $this->addElement('submit', 'submit', array('label' => 'Submit'));
+        $submit = $this->addElement('submit', 'submit', array('label' => 'Log In'));
     }
 }

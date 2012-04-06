@@ -87,6 +87,83 @@ header#main-header nav a:hover {
     text-decoration: none;
 }
 
+/**
+ * Login Display
+ */
+section#login{
+
+}
+
+section#login div#login-display, section#login div#login-form {
+    position: absolute;
+    top:0;
+    right:0;
+    width:auto;
+    padding: 4px 4px 0 4px;
+    height:auto;
+    background-color:#323232;
+    text-align: center;
+    color:#ccc;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom-left-radius: 5px;
+}
+
+section#login div#login-form {
+    position: absolute;
+    top:0;
+    right:0;
+    width:auto;
+    padding: 4px 4px 4px 4px;
+    height:auto;
+    background-color:#607890;
+    text-align: center;
+    color:#ccc;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom-left-radius: 5px;
+    box-shadow: -4px 8px 4px #222;
+}
+
+section#login div#login-form input {
+    text-align: center;
+    background-color: white;
+}
+
+section#login div#logout-display {
+    position: absolute;
+    bottom:0;
+    right:0;
+    width:auto;
+    padding: 4px 4px 0 4px;
+    height:auto;
+    background-color:#323232;
+    text-align: center;
+    color:#ccc;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-top-left-radius: 5px;
+}
+
+section#login span.logged-in-user {
+    color: #00A99D;
+    text-decoration: underline;
+}
+
+section#login a {
+    color:#ccc;
+    text-decoration: none;
+}
+
+section#login a:hover {
+    color:#ccc;
+    text-decoration: none;
+}
+
+section#login a:visited {
+    color:#ccc;
+    text-decoration: none;
+}
 /**********************************************************************************************************************************************************
  * CONTENT       																																																															            *
  *********************************************************************************************************************************************************/

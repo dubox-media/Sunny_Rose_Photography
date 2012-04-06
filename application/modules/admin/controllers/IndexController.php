@@ -35,7 +35,7 @@ class Admin_IndexController extends Zend_Controller_Action
 		if($this->_request->isPost() && $user_form->isValid($_POST)){
 			//get values
 			$data = $user_form->getValues();
-			
+
 			//set up auth adapter
 			$db = Zend_Db_Table::getDefaultAdapter();
 			$authAdapter = new Zend_Auth_Adapter_DbTable($db, 'users', 'name', 'password');
@@ -48,8 +48,15 @@ class Admin_IndexController extends Zend_Controller_Action
 				$auth = Zend_Auth::getInstance();
 				$storage = $auth->getStorage();
 				$storage->write($authAdapter->getResultRowObject(
-						array('username', 'role')));
-				return $this->_forward('index');
+						array('name', 'role')));
+
+                $user = $auth->getStorage()->read();
+                //If the requesting url in the admin/login section
+                if($user->role === 'Administrator'){
+                    return $this->_redirect('/admin');
+                } else {
+                    return $this->_redirect(Zend_Controller_Front::getInstance()->getBaseUrl());
+                }
 			} else {
 				$this->view->loginError = "Sorry, your username or password was incorrect";
 			}

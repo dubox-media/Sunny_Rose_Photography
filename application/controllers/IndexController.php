@@ -13,6 +13,16 @@ class IndexController extends Zend_Controller_Action
         
     }
 
+    public function logoutAction()
+    {
+
+        //Clear identity
+        $auth = Zend_Auth::getInstance();
+        $auth->clearIdentity();
+        $this->_redirect('/index');
+
+    }
+
 
 }
 

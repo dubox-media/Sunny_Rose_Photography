@@ -18,7 +18,17 @@ class SR_Plugins_Acl extends Zend_Controller_Plugin_Abstract {
 	
 	public function preDispatch(Zend_Controller_Request_Abstract $request)
 	{
-		$role = (Zend_Auth::getInstance()->hasIdentity()) ? 'Administrator' : 'guest';
+        $role = '';
+        $auth = Zend_Auth::getInstance();
+		//$role = (Zend_Auth::getInstance()->hasIdentity()) ? 'Administrator' : 'guest';
+        if($auth->hasIdentity())
+        {
+            $user = $auth->getIdentity();
+            $role = $user->role;
+        } else {
+            $role = 'guest';
+        }
+
 		$resource = strtolower($request->getModuleName() . ':' . $request->getControllerName());
 		
 		if (!$this->_acl->has($resource))

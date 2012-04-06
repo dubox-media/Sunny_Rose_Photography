@@ -3,8 +3,7 @@
 /**********************************************************************************************************************************************************
  * GLOBAL VARS/FUNCTIONS																																																																	*
  *********************************************************************************************************************************************************/
-var docW = $(window).width();
-var docH = window.innerHeight;
+
 /************************************************************* END GLOBAL VARS ***************************************************************************/ 
 
 
@@ -37,6 +36,14 @@ $(window).load(function(){
 var Page = function(){
 	var self = this;
 
+	//Member vars
+	this.docW = $(window).width();
+	this.docH = window.innerHeight;
+	this.mainHeaderWidth = $('#main-header').width();
+	this.mainContentWidth = $('#main-content').width();
+	this.audioPlayerWidth = $('#audio-player ul').width();
+	this.loginWidth = $('section#login').width();
+
 	//init layout
 	self.constructPage();
 
@@ -53,10 +60,18 @@ Page.prototype.constructPage = function(){
 
 
 	//Position Header
-	$('#main-header').css({'left': (docW - $('#main-header').width())/2});
+	$('#main-header').css({'left': (self.docW - self.mainHeaderWidth)/2});
 
 	//Audio Player
-	$('#audio-player ul').css({'left' :  (docW - $('#audio-player ul').width()) / 2});
+	$('#audio-player ul').css({'left' :  (self.docW - self.audioPlayerWidth) / 2});
+
+	//Login
+	$('#is-not-logged-in a').live('click', function(e){
+		e.preventDefault();
+		$('#login-display').fadeOut('400', function(){
+				$('#login-form').fadeIn('400');
+		});
+	});
 }
 
 Page.prototype.bindEvents = function(){

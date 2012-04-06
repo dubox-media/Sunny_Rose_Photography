@@ -1,14 +1,14 @@
-<table id="edit-photos-table">
-    <tr>
-        <th>Select</th>
-        <th>Image Title</th>
-        <th>Album Title</th>
-        <th>Category Title</th>
-        <th>Thumbnail?</th>
-    </tr>
+<section id="photos-listing">
+    <ul class="photos-listing-header">
+        <li><h4>Select</h4></li>
+        <li><h4>Image Title</h4></li>
+        <li><h4>Album Title</h4></li>
+        <li><h4>Category Title</h4></li>
+        <li><h4>Is Section Cover Image</h4></li>
+    </ul>
     <?php echo $this->partialLoop('partials/_page-row.phtml', $this->photos); ?>
-    <tr>
-        <td><a href="#" id="update-selected-photos">Update Selected</a></td>
-        <td><a href="#" id="delete-selected-photos">Deleted Selected</a></td>
-    </tr>
-</table>
+    <ul id="photos-listing-controls">
+        <li><a href="#" id="update-selected-photos">Update Selected</a></li>
+        <li><a href="#" id="delete-selected-photos">Deleted Selected</a></li>
+    </ul>
+</section>
