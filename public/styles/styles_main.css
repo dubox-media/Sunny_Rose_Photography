@@ -95,7 +95,7 @@ section#login{
 }
 
 section#login div#login-display, section#login div#login-form {
-    position: absolute;
+    position: fixed;
     top:0;
     right:0;
     width:auto;
@@ -110,7 +110,7 @@ section#login div#login-display, section#login div#login-form {
 }
 
 section#login div#login-form {
-    position: absolute;
+    position: fixed;
     top:0;
     right:0;
     width:auto;
@@ -131,7 +131,7 @@ section#login div#login-form input {
 }
 
 section#login div#logout-display {
-    position: absolute;
+    position: fixed;
     bottom:0;
     right:0;
     width:auto;
